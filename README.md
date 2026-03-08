@@ -21,6 +21,6 @@ How to reach me?
 
 I am open to discussing AI research, data engineering opportunities, or technical collaborations!
 
-Email: nikeshsabhnani@gmail.com 
-[LinkedIn:](https://www.linkedin.com/in/nikesh-sabhnani-mahtani-6814a7264/) 
-Location: Las Palmas de Gran Canaria
+- Email: nikeshsabhnani@gmail.com 
+- [LinkedIn Link](https://www.linkedin.com/in/nikesh-sabhnani-mahtani-6814a7264/) 
+- Location: Las Palmas de Gran Canaria
