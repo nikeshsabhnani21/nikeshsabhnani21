@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-AI Developer | BSc Artificial Intelligence Graduate
+AI Engineer | BSc Artificial Intelligence Graduate (VU Amsterdam)
 
 ### Who am I?
-I am an Artificial Intelligence graduate from Vrije Universiteit Amsterdam with a strong focus on probabilistic reasoning and decision-making under uncertainty and risk.
+I build independent ML and decision-support systems end-to-end, from large-scale data to working, explainable tools. My background is in probabilistic reasoning and decision-making under uncertainty, and I'm currently expanding that into applied AI engineering.
 
 ### What am I currently working on?
 
-During my gap year, I am conducting independent research into the intersection of human behavior modeling and supervised learning algorithms. My recent projects include:
-- Probabilistic Decision Systems: Comparative analysis of Bayesian Networks and Fuzzy Logic using 1M+ records.
-- Medical Data Classification: Optimizing risk-prediction models for healthcare datasets.
-- Adaptive Scheduling: Developing behavioral algorithms to simulate and manage task prioritization.
+My recent projects include:
+- Probabilistic Decision Systems: Bayesian Networks vs. Fuzzy Logic for emergency response decision-support, trained on 1M+ records, with an Explainable AI (XAI) layer.
+- Diabetes Risk Classifier: Benchmarked Logistic Regression, Random Forest, and Gradient Boosting on 250k+ CDC health records to predict diabetes risk.
+- Behaviour-Adaptive Task Scheduler: A Python CLI tool that adapts task priority based on user completion patterns over time.
 
 ### Technical Toolkits
-- AI & Logic: Bayesian Networks (pyAgrum), Fuzzy Logic (scikit-fuzzy), Decision Theory, and XAI.
-- Machine Learning: scikit-learn, pandas, NumPy, and Reinforcement Learning.
-- Languages: Python, SQL, R, and Prolog.
+- AI & Logic: Bayesian Networks (PyAgrum), Fuzzy Logic (scikit-fuzzy), Decision Theory, XAI.
+- Machine Learning: scikit-learn, pandas, NumPy.
+- Languages: Python, SQL, R, Prolog.
 
 How to reach me?
 
-I am open to discussing AI research, data engineering opportunities, or technical collaborations!
+I'm looking for AI engineering opportunities where I can build and ship real solutions.
 
 - Email: nikeshsabhnani@gmail.com 
 - [LinkedIn Link](https://www.linkedin.com/in/nikesh-sabhnani-mahtani-6814a7264/) 
